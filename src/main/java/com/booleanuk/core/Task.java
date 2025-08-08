@@ -9,7 +9,7 @@ public class Task {
         this.isComplete = false;
     }
 
-    Boolean isComplete() {
+    public Boolean isComplete() {
         return this.isComplete;
     }
 
